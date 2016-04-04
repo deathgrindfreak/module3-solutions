@@ -1,0 +1,12 @@
+nav div.container-fluid{
+    background-color: #dfdfdf;
+}
+
+#lorem-big {
+    background-color: #dfdfdf;
+    padding: 1px 10px;
+}
+
+#lorem-big h2 {
+    margin-bottom: 15px;
+}
